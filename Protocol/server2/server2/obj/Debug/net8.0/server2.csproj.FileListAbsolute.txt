@@ -1,0 +1,14 @@
+C:\Users\saba\source\repos\server2\server2\bin\Debug\net8.0\server2.exe
+C:\Users\saba\source\repos\server2\server2\bin\Debug\net8.0\server2.deps.json
+C:\Users\saba\source\repos\server2\server2\bin\Debug\net8.0\server2.runtimeconfig.json
+C:\Users\saba\source\repos\server2\server2\bin\Debug\net8.0\server2.dll
+C:\Users\saba\source\repos\server2\server2\bin\Debug\net8.0\server2.pdb
+C:\Users\saba\source\repos\server2\server2\obj\Debug\net8.0\server2.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\saba\source\repos\server2\server2\obj\Debug\net8.0\server2.AssemblyInfoInputs.cache
+C:\Users\saba\source\repos\server2\server2\obj\Debug\net8.0\server2.AssemblyInfo.cs
+C:\Users\saba\source\repos\server2\server2\obj\Debug\net8.0\server2.csproj.CoreCompileInputs.cache
+C:\Users\saba\source\repos\server2\server2\obj\Debug\net8.0\server2.dll
+C:\Users\saba\source\repos\server2\server2\obj\Debug\net8.0\refint\server2.dll
+C:\Users\saba\source\repos\server2\server2\obj\Debug\net8.0\server2.pdb
+C:\Users\saba\source\repos\server2\server2\obj\Debug\net8.0\server2.genruntimeconfig.cache
+C:\Users\saba\source\repos\server2\server2\obj\Debug\net8.0\ref\server2.dll
